@@ -18,5 +18,5 @@ myE.on("Child", ()=> {
 myE.emit("Hello");
 
 myE.emit("Child");
-//  It won't work when you try to run it
+//  It won't work when you try to run it 
 myE.emit("Jo");
